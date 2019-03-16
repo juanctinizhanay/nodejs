@@ -1,0 +1,13 @@
+1. download nodejs the page https://nodejs.org/en/
+2. install
+3. terminal node -v 
+4. nvm (node version manager) -> https://github.com/creationix/nvm
+5. yes the comand nvm not found, copy the two ultime row the after instalation
+6. vim .bashrc and paste the code
+7. activation commads the nvm -> source .bashrc 
+8. nvm install 6 ->install the version 6
+9. nvm use system -> use the version of node install in the SO
+
+
+
+
