@@ -8,6 +8,9 @@
 8. nvm install 6 ->install the version 6
 9. nvm use system -> use the version of node install in the SO
 
+#mongoDB Install in macOS
+install homebrew
+brew install mongodb --force-bottle
 
 
 
